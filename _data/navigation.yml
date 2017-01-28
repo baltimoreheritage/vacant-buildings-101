@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "About"
+    url: https://baltimoreheritage.github.io/vacant-buildings-101/about/
+  - title: "Resources"
+    url: https://baltimoreheritage.github.io/vacant-buildings-101/resources/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
