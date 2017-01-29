@@ -4,8 +4,8 @@ main:
     url: https://baltimoreheritage.github.io/vacant-buildings-101/about/
   - title: "Resources"
     url: https://baltimoreheritage.github.io/vacant-buildings-101/resources/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Maps"
+    url: https://baltimoreheritage.github.io/vacant-buildings-101/maps/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
