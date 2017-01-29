@@ -6,6 +6,7 @@ modified: 2017-01-29
 header:
   teaser:   /assets/images/1981-HABS-MD-46-12-baltimore-city-council-chambers.jpg
   overlay_image: /assets/images/1981-HABS-MD-46-12-baltimore-city-council-chambers.jpg
+  overlay_filter: .5
   caption: "City Council Chambers, Michael Karcher, Summer 1981. Photograph courtesy [Library of Congress/HABS MD-46-12](http://www.loc.gov/pictures/item/md0957.photos.085901p/) (PD)."
 ---
 
