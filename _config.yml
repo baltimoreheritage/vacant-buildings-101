@@ -235,6 +235,9 @@ collections:
   maps:
     output: true
     permalink: /:collection/:path/
+  charts:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -259,6 +262,14 @@ defaults:
   - scope:
       path: ""
       type: maps
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _charts
+  - scope:
+      path: ""
+      type: charts
     values:
       layout: single
       author_profile: false
