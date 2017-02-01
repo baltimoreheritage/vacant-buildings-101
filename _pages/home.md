@@ -22,14 +22,17 @@ The guide is currently available as [an open Google Document](https://docs.googl
 
 ## What are the Vacant Buildings 101 workshops?
 
-Baltimore Heritage and the Community Law Center are holding a series of three workshops in 2017 to share resources on taking action on vacant buildings. Explore the slides from the workshops below and find notes for each of the workshop sessions.
+Baltimore Heritage and the Community Law Center are holding a series of three workshops in 2017 to share resources on taking action on vacant buildings. Explore the slides from the workshops below.
 
 ## Slides
 
+<style>
+.responsive-wrap iframe{ max-width: 100%;}
+</style>
+<div class="responsive-wrap">
 <iframe src="https://docs.google.com/presentation/d/1TdTT_f0-Gd1LevpOrkzwTNaPsoAcC48HLXwU3LxRk6g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
 
-## Notes
+## Handouts
 
-- [January 28, 2017 Workshop](https://docs.google.com/document/d/1s4fe3wkd2OFcCEkjxawXpYSiOCYav4LKwDLTXNRVUeo/edit?usp=sharing) (Carter Memorial Church of Baltimore)
-- February 28, 2017 Workshop (Location TBD)
-- March 28, 2017 Workshop (Location TBD)
+- [Reporting code violations with 311](https://docs.google.com/document/d/1c2vFHXfyUM9pO1l-g5dC91FEspF-GuEhNwpkpGaK_eE/edit?usp=sharing)
