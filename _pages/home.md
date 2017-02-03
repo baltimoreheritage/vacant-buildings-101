@@ -24,7 +24,7 @@ The guide is currently available as [an open Google Document](https://docs.googl
 
 Baltimore Heritage and the Community Law Center are holding a series of three workshops in 2017 to share resources on taking action on vacant buildings. Explore the slides from the workshops below.
 
-## Slides
+## Browse the workshop slides
 
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
@@ -33,6 +33,15 @@ Baltimore Heritage and the Community Law Center are holding a series of three wo
 <iframe src="https://docs.google.com/presentation/d/1TdTT_f0-Gd1LevpOrkzwTNaPsoAcC48HLXwU3LxRk6g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
-## Handouts
+## Get the workshop handouts
 
 - [Reporting code violations with 311](https://docs.google.com/document/d/1c2vFHXfyUM9pO1l-g5dC91FEspF-GuEhNwpkpGaK_eE/edit?usp=sharing)
+
+## Share your photos, questions, and answers
+
+### [\#vacants101 on Twitter](https://twitter.com/hashtag/vacants101)
+<div class="full">
+<!-- SnapWidget -->
+<script src="https://snapwidget.com/js/snapwidget.js"></script>
+<iframe src="https://snapwidget.com/embed/329505" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:100%; "></iframe>
+</div>
