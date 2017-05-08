@@ -17,7 +17,7 @@ guide:
   - title: "Introduction"
     url: https://baltimoreheritage.github.io/vacant-buildings-101/introduction/
   - title: "Understanding Vacant Buildings"
-    url: https://baltimoreheritage.github.io/vacant-buildings-101/introduction/
+    url: https://baltimoreheritage.github.io/vacant-buildings-101/understanding-buildings/
     children:
       - title: "Why so many vacant buildings?"
         url: https://baltimoreheritage.github.io/vacant-buildings-101/understanding-buildings/#Why-does-Baltimore-have-so-many-vacant-buildings?
