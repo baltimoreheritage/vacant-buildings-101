@@ -12,3 +12,28 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+guide:
+  - title: "Introduction"
+    url: https://baltimoreheritage.github.io/vacant-buildings-101/introduction/
+  - title: "Understanding Vacant Buildings"
+    url: https://baltimoreheritage.github.io/vacant-buildings-101/introduction/
+    children:
+      - title: "Why so many vacant buildings?"
+        url: https://baltimoreheritage.github.io/vacant-buildings-101/understanding-buildings/#Why-does-Baltimore-have-so-many-vacant-buildings?
+      - title: "Why are they hard to fix up and reuse?"
+        url: https://baltimoreheritage.github.io/vacant-buildings-101/understanding-buildings/#Why-is-it-hard-to-fix-up-and-reuse-vacant-buildings?
+      - title: "What does Baltimore do about them?"
+        url: https://baltimoreheritage.github.io/vacant-buildings-101/understanding-buildings/#What-does-Baltimore-do-about-vacant-buildings?
+  - title: "Taking Action"
+    children:
+      - title: "Vacant Buildings"
+        url: https://baltimoreheritage.github.io/vacant-buildings-101/vacant-buildings/
+      - title: "Neighborhood Vacancy"
+        url: https://baltimoreheritage.github.io/vacant-buildings-101/neighborhood-vacancy/
+      - title: "Preventing Abandonment"
+        url: https://baltimoreheritage.github.io/vacant-buildings-101/preventing-vacancy/
+  - title: "Resources"
+    url: https://baltimoreheritage.github.io/vacant-buildings-101/resources/
+  - title: "About Vacant Buildings 101"
+    url: https://baltimoreheritage.github.io/vacant-buildings-101/about/
