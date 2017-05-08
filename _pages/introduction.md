@@ -15,7 +15,7 @@ header:
 
 ## What is Vacant Buildings 101?
 
-Vacant buildings are a problem for people all across Baltimore City. Baltimore Heritage and the Community Law Center created the Vacant Buildings 101 as a guide to help Baltimore residents, property owners, and community leaders like you take action on vacant buildings on your block and in your neighborhood. Learn how vacant buildings are fixed up and torn down, how to advocate for policies that encourage building reuse, what you can expect when you call 311, and more.
+Vacant buildings are a problem for people all across Baltimore City. [Baltimore Heritage](https://baltimoreheritage.org/) and the [Community Law Center](http://communitylaw.org/) created Vacant Buildings 101 as a guide for Baltimore residents, property owners, and community leaders to help you take action on vacant buildings on your block and in your neighborhood. Read on to learn how vacant buildings are fixed up and torn down, how to advocate for policies that encourage building reuse, what you can expect when you call 311, and more.
 
 This guide was written by Eli Pousson and Becky Witt with support from [Preservation Maryland](http://www.preservationmaryland.org/) and the [Maryland Historical Trust](http://mht.maryland.gov/) through the Heritage Fund. This guide is based on feedback and information from our colleagues at Baltimore Heritage and the Community Law Center, neighborhood residents, community development professionals, and Baltimore City staff who generously shared their knowledge and experience with vacant buildings.
 
