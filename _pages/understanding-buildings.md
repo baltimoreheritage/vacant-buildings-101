@@ -113,6 +113,8 @@ As a result of these policies, many vacant buildings are located in historically
 | Areas with >50% black residents    | 10.37%                      | 65.46%                                   |
 | Areas with >80% black residents    | 13.54%                      | 42.90%                                   |
 
+*Data courtesy Baltimore Neighborhood Indicators Alliance. Analysis available in [this Google Sheet](https://docs.google.com/spreadsheets/d/1AdKFR8_FQlc2x8M-nRhFVxa85rQl5a9BLVHnO5Tuf4c/edit?usp=sharing).*
+
 ## Why is it hard to fix up and reuse vacant buildings?
 
 ## What does Baltimore do about vacant buildings?
