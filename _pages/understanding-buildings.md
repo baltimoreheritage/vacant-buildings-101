@@ -7,7 +7,7 @@ modified: 2017-05-08
 sidebar:
   nav: "guide"
 header:
-  teaser: https://c1.staticflickr.com/3/2774/32822250032_46cb62a460_z.jpg
+  teaser: https://c2.staticflickr.com/8/7474/16144121489_84be1e1971_z.jpg
   overlay_image: https://c2.staticflickr.com/8/7474/16144121489_72499cb103_h.jpg
   overlay_filter: .4
   caption: "Rowhouses, 1914-1924 Harlem Avenue, Baltimore, MD 21217, 2014 August 5. Photo by Eli Pousson, [Baltimore Heritage](https://www.flickr.com/photos/baltimoreheritage/16144121489/) ([CC 0](https://creativecommons.org/licenses/publicdomain/))."
