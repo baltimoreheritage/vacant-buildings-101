@@ -1,0 +1,21 @@
+---
+title: Guides
+permalink: /guides/
+excerpt: "A collection of useful background information and tutorials related to vacant buildings."
+layout: archive
+header:
+  teaser: https://c1.staticflickr.com/3/2292/32780693471_ca4d2121ee_z.jpg
+  overlay_image: https://c1.staticflickr.com/3/2292/32780693471_be5f728aaa_h.jpg
+  overlay_filter: .2
+  caption: "Vacant rowhouses, 1212-1216 N. Gay Street, Baltimore, MD 21213, 2017 February 8. Photograph by Eli Pousson, [Baltimore Heritage](https://www.flickr.com/photos/baltimoreheritage/32780693471/) ([CC 0](https://creativecommons.org/licenses/publicdomain/))"
+---
+
+{% include group-by-array collection=site.guides field="categories" %}
+
+{% for category in group_names %}
+  {% assign posts = group_items[forloop.index0] %}
+  <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
+  {% for post in posts %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endfor %}
