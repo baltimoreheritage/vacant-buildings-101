@@ -238,6 +238,9 @@ collections:
   charts:
     output: true
     permalink: /:collection/:path/
+  guides:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -270,6 +273,14 @@ defaults:
   - scope:
       path: ""
       type: charts
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _guides
+  - scope:
+      path: ""
+      type: guides
     values:
       layout: single
       author_profile: false
