@@ -4,6 +4,8 @@ title: "Introduction"
 excerpt: "Vacant buildings are a problem for people all across Baltimore City. Baltimore Heritage and the Community Law Center created this guide to help Baltimore residents, property owners, and community leaders like you take action on vacant buildings on your block and in your neighborhood."
 date: 2016-10-05
 modified: 2017-05-08
+category:
+  - Background
 sidebar:
   nav: "guide"
 header:

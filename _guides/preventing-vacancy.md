@@ -4,6 +4,8 @@ title: "Preventing Vacant Buildings"
 excerpt: "Taking action on vacant buildings can also include helping older homeowners stay in their homes, discouraging property owners from abandoning buildings, and encouraging neighbors to invest in essential home maintenance. Proactive organizing and advocacy to keep buildings occupied is essential to prevent the number of vacant buildings from growing in the future."
 date: 2016-10-05
 modified: 2017-05-08
+category:
+  - Background
 sidebar:
   nav: "guide"
 header:

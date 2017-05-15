@@ -4,6 +4,8 @@ title: "Taking Action on Vacant Buildings"
 excerpt: "If you want to take action on a vacant building on your block or in your neighborhood, you should begin by trying to answer a few questions about the current ownership of the building, the recent history of the building, and the building's current condition."
 date: 2016-10-05
 modified: 2017-05-08
+category:
+  - Background
 sidebar:
   nav: "guide"
 header:

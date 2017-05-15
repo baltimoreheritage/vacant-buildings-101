@@ -4,6 +4,8 @@ title: "Understanding Vacant Buildings"
 excerpt: "To understand vacant buildings, you need to consider why Baltimore has so many vacant buildings, why it is difficult to fix up and reuse vacant buildings, and what Baltimore does about vacant buildings."
 date: 2016-10-05
 modified: 2017-05-08
+category:
+  - Background
 sidebar:
   nav: "guide"
 header:
@@ -21,7 +23,7 @@ Understanding vacant buildings begins by asking a few simple questions:
 
 These might sound like simple questions but they are difficult to answer.
 
-Counting vacant buildings depends on how you define a “vacant building.” All unoccupied buildings are not “vacant” by any definition. However, many local housing advocates are concerned that city’s list of “vacant building notices” is significantly less than the true total of abandoned buildings. 
+Counting vacant buildings depends on how you define a “vacant building.” All unoccupied buildings are not “vacant” by any definition. However, many local housing advocates are concerned that city’s list of “vacant building notices” is significantly less than the true total of abandoned buildings.
 
 Identifying barriers to building reuse depends on who you ask. If you are a developer, you may focus on the difficulty of acquiring vacant buildings. If you are an urban planner, you may talk about the lack of market demand.
 
@@ -62,7 +64,7 @@ Even if a building is unoccupied for an extended period of time, Baltimore Housi
 
 {% include figure image_path="https://c2.staticflickr.com/4/3866/33518871810_f4f7c32b53_b.jpg" alt="Vacant rowhouse, 544 East 22nd Street, Baltimore, MD 21218" caption="Vacant rowhouse, 544 East 22nd Street, Baltimore, MD 21218, 2017 April 3. Photograph by Eli Pousson, [Baltimore Heritage](https://www.flickr.com/photos/baltimoreheritage/33518871810/) ([CC 0](https://creativecommons.org/licenses/publicdomain/))" %}
 
-Since the 1970s, Baltimore's Code Enforcement office has maintained a "Vacant House File" as a database on the city's computer system. Since the early 2000s, this data has been available in real-time to city staff and, more recently, to the public on the [Open Baltimore data portal](https://data.baltimorecity.gov/Housing-Development/Vacant-Buildings/qqcv-ihn5). 
+Since the 1970s, Baltimore's Code Enforcement office has maintained a "Vacant House File" as a database on the city's computer system. Since the early 2000s, this data has been available in real-time to city staff and, more recently, to the public on the [Open Baltimore data portal](https://data.baltimorecity.gov/Housing-Development/Vacant-Buildings/qqcv-ihn5).
 
 Today, Baltimore Housing reports that the city has approximately 16,000 vacant buildings and 14,000 vacant lots for a total of around 30,000 vacant properties. More than 75% of all vacant property in Baltimore City is privately owned. But if you use a different definition of vacant buildings you might come up with a different number. The U.S. Census Bureau counts vacant dwelling units coming up with 46,782 (2010). Baltimore Neighborhood Indicators Alliance made an estimate in 2015 based on both city and Census Bureau criteria of 31,370.
 
@@ -104,11 +106,11 @@ As Baltimore City lost residents, the surrounding counties gained both populatio
 
 Vacant buildings today are the legacy of segregated housing and racial discrimination in the past. Notorious practices like "redlining" in the 1930s and "block-busting" in the 1950s and 1960s are not relics of the past. Even in the present, African American residents in the Baltimore region are unable to access home loans, employment opportunities, and transportation to the same extent as white residents.
 
-As a result of these policies, many vacant buildings are located in historically segregated African American neighborhoods in east and west Baltimore. This is illustrated by looking beyond Baltimore’s average vacancy rate of 8.03% (2013) to consider the disparate impact of vacant buildings on black and white residents. An analysis is based on data from the Baltimore Neighborhood Indicators Alliance [Vital Signs 2014](http://bniajfi.org/vital_signs/) report finds that in neighborhoods where less than 50% of residents are black, the vacancy rate is 2.54%. In neighborhoods where more than 80% residents are black, the rate is 13.54%.
+As a result of these policies, many vacant buildings are located in historically segregated African American neighborhoods in east and west Baltimore. This is illustrated by looking beyond Baltimore’s average vacancy rate of 7.67% (2013) to consider the disparate impact of vacant buildings on black and white residents. An analysis is based on data from the Baltimore Neighborhood Indicators Alliance [Vital Signs 2014](http://bniajfi.org/vital_signs/) report finds that in neighborhoods where less than 50% of residents are black, the vacancy rate is 2.54%. In neighborhoods where more than 80% of residents are black, the vacancy rate is 13.54%.
 
 | Community Statistical Areas (2010) | Average vacancy rate (2013) | Percent of total vacant properties (2013) |
 | ---------------------------------- | --------------------------- | ---------------------------------------- |
-| All areas                          | 8.03%                       | 100%                                     |
+| All areas                          | 7.67%                       | 100%                                     |
 | Areas with <50% black residents    | 2.54%                       | 34.60%                                   |
 | Areas with >50% black residents    | 10.37%                      | 65.46%                                   |
 | Areas with >80% black residents    | 13.54%                      | 42.90%                                   |
@@ -118,4 +120,3 @@ As a result of these policies, many vacant buildings are located in historically
 ## Why is it hard to fix up and reuse vacant buildings?
 
 ## What does Baltimore do about vacant buildings?
-

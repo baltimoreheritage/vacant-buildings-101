@@ -4,6 +4,8 @@ title: "Taking Action on Vacancy in Your Neighborhood"
 excerpt: "Focusing on the problems of a handful of vacant buildings is important but you do not want to ignore the bigger problem of vacancy in your neighborhood. How can you and your neighbors organize around vacancy as a problem? How can your community group take action on vacancy?"
 date: 2016-10-05
 modified: 2017-05-08
+category:
+  - Background
 sidebar:
   nav: "guide"
 header:
