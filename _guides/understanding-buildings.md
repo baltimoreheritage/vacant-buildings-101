@@ -15,6 +15,8 @@ header:
   caption: "Rowhouses, 1914-1924 Harlem Avenue, Baltimore, MD 21217, 2014 August 5. Photo by Eli Pousson, [Baltimore Heritage](https://www.flickr.com/photos/baltimoreheritage/16144121489/) ([CC 0](https://creativecommons.org/licenses/publicdomain/))."
 ---
 
+{% include toc %}
+
 Understanding vacant buildings begins by asking a few simple questions:
 
 - Why does Baltimore have so many vacant buildings?
