@@ -31,7 +31,7 @@ Here is how you can use the common law principle of "self-help nuisance abatemen
 1. Figure out if this a nuisance property. In legal terms, a "nuisance" is condition or situation that interferes with the use or enjoyment of property.
 2. Report the condition of the property to 311. See our guide to [reporting code violations with 311](https://baltimoreheritage.github.io/vacant-buildings-101/guides/report-code-violations/) for more information.
 3. Identify and locate the property owner using public records.
-4. Provide notice of the nuisance by writing a detailed letter to the property owner, including the following information:
+4. Provide notice of the nuisance by writing a detailed letter to the property owner. You can use this [nuisance property letter worksheet](http://communitylaw.org/wp-content/uploads/2016/09/Nuisance-Property-Letter-Worksheet.pdf) or write your own letter. Make sure to include the following information:
   - Property address;
   - Detailed description of the conditions;
   - The dates you saw the conditions;
