@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: https://baltimoreheritage.github.io/vacant-buildings-101/about/
+  - title: "Guides"
+    url: https://baltimoreheritage.github.io/vacant-buildings-101/guides/
   - title: "Resources"
     url: https://baltimoreheritage.github.io/vacant-buildings-101/resources/
   - title: "Maps"
