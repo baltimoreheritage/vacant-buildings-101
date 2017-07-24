@@ -11,7 +11,7 @@ header:
   overlay_filter: .5
   caption: "Overgrown rear yard of a vacant rowhouse on E. 27th Street, 2017 April 12. Photograph by [Eli Pousson](https://www.flickr.com/photos/elipousson/33887889111/) ([CC 0](https://creativecommons.org/licenses/publicdomain/))."
 requirements:
-  time: "Two to six weeks"
+  time: "2 to 6 weeks"
   tools: "Documentation on the condition of a nuisance property and a group of concerned neighbors."
   information: "The identity and mailing address of the property owner."
 guide:
@@ -20,11 +20,11 @@ guide:
   status: ready
 ---
 
-{% include requirements.html %}
-
 *This guide is based on the [2012 self-help nuisance abatement handout](http://communitylaw.org/wp-content/uploads/2012/08/self-help-nuisance-abatement-handout.pdf) from the Community Law Center. Learn more about [self-help nuisance abatement](http://communitylaw.org/urbanagriculturelawproject/self-help-nuisance-abatement-2/).*
 
-What do you do about a nuisance in your neighborhood? Imagine you live next door to a privately-owned vacant lot in Baltimore City covered with three-foot weeds and overgrown shrubs and trees. The weeds make the lot a haven for haven for rats and trash is strewn throughout the property. A few individuals have started to use the lot as a dumping ground for unwanted tires, sofas, and other large debris. You and your neighbors are tired of looking at the eyesore and want to clean it up. They would like to turn the lot into something attractive and productive for the community, to ensure that it does not return to the current situation once it is cleaned up.
+{% include requirements.html %}
+
+What can you do about a nuisance in your neighborhood? Imagine you live next door to a privately-owned vacant lot in Baltimore City covered with three-foot weeds and overgrown shrubs and trees. The weeds make the lot a haven for haven for rats and trash is strewn throughout the property. A few individuals have started to use the lot as a dumping ground for unwanted tires, sofas, and other large debris. You and your neighbors are tired of looking at the eyesore and want to clean it up. They would like to turn the lot into something attractive and productive for the community, to ensure that it does not return to the current situation once it is cleaned up.
 
 Here is how you can use the common law principle of "self-help nuisance abatement" to address the problem:
 
