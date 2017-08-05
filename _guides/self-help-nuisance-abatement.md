@@ -3,6 +3,7 @@ title: "How to use self-help nuisance abatement"
 excerpt: "Step-by-step guide to using nuisance abatement to deal with problem properties."
 date: 2012-08-08
 modified: 2017-07-24
+author: Community Law Center
 category:
   - "How-to"
 header:
