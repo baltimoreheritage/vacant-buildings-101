@@ -1,0 +1,34 @@
+# /_data/authors.yml
+
+Eli Pousson:
+  name: "Eli Pousson"
+  bio: "Director of Preservation & Outreach, Baltimore Heritage"
+  email: "pousson@baltimoreheritage.org"
+  avatar: "/assets/images/bio-photo-2.jpg"
+  twitter: "elipousson"
+
+Becky Witt:
+  name: "Becky Witt"
+  email: "beckyw@communitylaw.org"
+  bio: "Staff Attorney, Community Law Center"
+  avatar: "/assets/images/bio-photo.jpg"
+  twitter: "CommunityLawCen"
+
+Community Law Center:
+  name: "Community Law Center"
+  uri: "http://communitylaw.org/"
+  bio: "Maryland’s only legal services organization dedicated solely to strengthening neighborhoods and the nonprofit sector."
+  avatar: "https://pbs.twimg.com/profile_images/717854320134397952/svtmWJJ2_400x400.jpg"
+  twitter: "CommunityLawCen"
+  facebook: "CommunityLawCenter"
+  instagram: "communitylawcenter"
+
+Baltimore Heritage:
+  name: "Baltimore Heritage"
+  uri: "https://baltimoreheritage.org/"
+  bio: "A citywide nonprofit celebrating Baltimore's historic neighborhoods and working to save old buildings."
+  avatar: "https://pbs.twimg.com/profile_images/723627631/307562_300_400x400.jpg"
+  twitter: "bmoreheritage"
+  facebook: "baltimoreheritage"
+  instagram: "bmoreheritage"
+  github: "baltimoreheritage"
