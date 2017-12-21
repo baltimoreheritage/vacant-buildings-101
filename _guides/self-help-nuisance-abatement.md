@@ -12,7 +12,7 @@ header:
   overlay_filter: .5
   caption: "Overgrown rear yard of a vacant rowhouse on E. 27th Street, 2017 April 12. Photograph by [Eli Pousson](https://www.flickr.com/photos/elipousson/33887889111/) ([CC 0](https://creativecommons.org/licenses/publicdomain/))."
 requirements:
-  time: "2 to 6 weeks"
+  time: "two to six weeks"
   tools: "Documentation on the condition of a nuisance property and a group of concerned neighbors."
   information: "The identity and mailing address of the property owner."
 guide:
@@ -25,7 +25,11 @@ guide:
 
 {% include requirements.html %}
 
-What can you do about a nuisance in your neighborhood? Imagine you live next door to a privately-owned vacant lot in Baltimore City covered with three-foot weeds and overgrown shrubs and trees. The weeds make the lot a haven for haven for rats and trash is strewn throughout the property. A few individuals have started to use the lot as a dumping ground for unwanted tires, sofas, and other large debris. You and your neighbors are tired of looking at the eyesore and want to clean it up. They would like to turn the lot into something attractive and productive for the community, to ensure that it does not return to the current situation once it is cleaned up.
+What can you do about a nuisance in your neighborhood?
+
+Imagine you live next door to a privately-owned vacant lot in Baltimore City covered with three-foot weeds and overgrown shrubs and trees. The weeds make the lot a haven for haven for rats and trash is strewn throughout the property. Someone has started to use the lot as a dumping ground for unwanted tires, sofas, and other large debris.
+
+You and your neighbors are tired of looking at the eyesore and want to clean it up. They would like to turn the lot into something attractive and productive for the community, to ensure that it does not return to the current situation once it is cleaned up.
 
 Here is how you can use the common law principle of "self-help nuisance abatement" to address the problem:
 
@@ -39,9 +43,8 @@ Here is how you can use the common law principle of "self-help nuisance abatemen
   - The references for 311 reports or code violations;
   - An explanation of what the community wants the property owner to do, with a timeline of when you want it done; and
   - A statement that the community will abate the nuisance themselves if the owner does not do so within a certain time frame.
-5. Send the letter by certified mail to obtain proof of delivery. If the letter is returned, keep it unopened as proof of your attempt to provide notice.
-
-If these steps are followed and the property owner does not abate the nuisance after receiving proper legal notice, the community has the legal right to enter the property and abate the nuisance.
+5. Send the letter by certified mail to ensure proof of delivery. If the post office returns the letter as undeliverable, keep it unopened as proof of your attempt to provide notice.
+6. If the property owner does not abate the nuisance after receiving proper legal notice, the community now has the legal right to enter the property and abate the nuisance themselves.
 
 **Remember:** Self-help nuisance abatement does *not* give the community permanent legal access to the property. The owner of the property could come back at any time and rightfully demand use of the property. You can choose to make improvements to the property described in your notice to the property owner, such as creating garden beds or adding a fence or benches, but you should understand that the owner could remove them at any time without providing notice or compensation.
 {: .notice--info}
