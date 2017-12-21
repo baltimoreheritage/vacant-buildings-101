@@ -1,13 +1,13 @@
 # main links
 main:
   - title: "About"
-    url: https://baltimoreheritage.github.io/vacant-buildings-101/about/
+    url: /about/
   - title: "Guides"
-    url: https://baltimoreheritage.github.io/vacant-buildings-101/guides/
+    url: /guides/
   - title: "Resources"
-    url: https://baltimoreheritage.github.io/vacant-buildings-101/resources/
-  - title: "Maps"
-    url: https://baltimoreheritage.github.io/vacant-buildings-101/maps/
+    url: /resources/
+  #   - title: "Maps"
+  #     url: https://baltimoreheritage.github.io/vacant-buildings-101/maps/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
