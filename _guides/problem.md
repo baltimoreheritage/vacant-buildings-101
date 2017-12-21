@@ -1,5 +1,4 @@
 ---
-permalink: /problem/
 title: "What is the problem with vacant buildings?"
 excerpt: "Vacant buildings can cause real worries and serious problems for Baltimore residents and property owners."
 date: 2016-10-05
