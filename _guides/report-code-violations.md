@@ -59,12 +59,10 @@ Baltimore 311 is a system for Baltimore residents to share issues in their commu
 There are three main ways you can report code violations (or make a service request) with 311:
 
 1. Call 311 on your phone and talk to an operator.
-2. Use the Baltimore 311 smartphone app to submit a request. You can download and install the app for [iOS](http://itunes.apple.com/us/app/baltimore-311/id455865821?mt=8) or [Android](https://play.google.com/store/apps/details?id=gov.baltimorecity.baltimore311).
-2. Visit [311.baltimorecity.gov](http://311.baltimorecity.gov) and select “Submit Request”.
+2. Use the Baltimore 311 smartphone app to submit a request. You can download and install the app for [iOS](https://itunes.apple.com/us/app/baltimore-city-311/id1419786875?mt=8&ign-mpt=uo%3D2) or [Android](https://play.google.com/store/apps/details?id=gov.baltimorecity.cob311).
+2. Visit [balt311.baltimorecity.gov](https://balt311.baltimorecity.gov) and select “Request” from the menu.
 
-Both the website and mobile applications use a platform known as [Spot Reporters](http://www.spotreporters.com/).
-
-**Do you want to stay anonymous?** You can make an anonymous report to an operator or on the website. You can also use a separate email address for making 311 reports make sure you keep your personal email private.
+**Do you want to stay anonymous?** You can make an anonymous report to an operator or on the website. You can also use a separate email address for making 311 reports in order to make sure you keep your personal email private.
 {: .notice--warning}
 
 ### Calling 311 and talking to an operator
@@ -82,9 +80,9 @@ The app allows you to include a photograph along with your report. If you are ta
 
 The app allows you to save your contact information so you do not need to input your email or phone number every time you submit a request. It also allows you to browser recent requests and receive notifications when a city employee closes on of your 311 service requests.
 
-### Use 311.baltimorecity.gov
+### Use balt311.baltimorecity.gov
 
-Submitting 311 requests with 311.baltimorecity.gov offers you a similar experience to the smartphone app. You may prefer using the website if you want to provide a detailed description and are more comfortable typing on a keyboard. The website does *not* save your contact information so, if you do want to include it, you need to input your information every time you make a request.
+Submitting 311 requests with balt311.baltimorecity.gov offers you a similar experience to the smartphone app. You may prefer using the website if you want to provide a detailed description and are more comfortable typing on a keyboard.
 
 ## 3. Following up on 311 service requests
 
@@ -96,7 +94,7 @@ In some cases, the city marks a 311 request “closed” but the issue is not re
 
 If the issue is not resolved, you want to re-submit to Baltimore 311 or you want to contact the relevant city agency, the code enforcement district office, your neighborhood association, or your City Council representative. When you call or email any of these people for help with the issue, you need to provide the date of your request and the service request identification number so they can determine why a city employee closed the 311 request and why the issue was not resolved as you expected. You may want to keep track of correspondence with city employees or elected officials using the same notebook, spreadsheet, or document you use to record your 311 service requests.
 
-If you are having persistent issues with a single property, you may want to keep track of your 311 service requests in a spreadsheet. You can create separate columns for information including:
+If you are having persistent issues with a single property, you may want to use Microsoft Excel or Google Sheets to keep track of your 311 service requests in a spreadsheet. You can create separate columns for key information including:
 
 - The date you submitted the requests
 - The service request number
