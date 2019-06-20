@@ -56,7 +56,7 @@ If the condition of a building or vacant lot is dangerous or unhealthy for you a
 
 Baltimore 311 is a system for Baltimore residents to share issues in their communities directly with the city employees responsible for fixing those issues. Code violations are just one kind of issue you can report with 311. You can also use 311 to report potholes, graffiti, water leaks, and other issues. Baltimore created the first [311 call service](https://en.wikipedia.org/wiki/3-1-1) in the country in 1996 but the system has spread many different cities.
 
-There are three main ways you can report code violations (or make a service request) with 311:
+There are three ways you can report code violations (or make a service request) with 311:
 
 1. Call 311 on your phone and talk to an operator.
 2. Use the Baltimore 311 smartphone app to submit a request. You can download and install the app for [iOS](https://itunes.apple.com/us/app/baltimore-city-311/id1419786875?mt=8&ign-mpt=uo%3D2) or [Android](https://play.google.com/store/apps/details?id=gov.baltimorecity.cob311).
@@ -99,4 +99,4 @@ If you are having persistent issues with a single property, you may want to use 
 - The date you submitted the requests
 - The service request number
 - A link to the service request on the Baltimore 311 website
-- Notes on whether the city resolved the issue satisfactorily
+- Notes on whether the city resolved the issue or if the issue is still outstanding

@@ -1,6 +1,6 @@
 ---
 title: "How to research the ownership of vacant buildings"
-excerpt: "Step-by-step guide to researching the ownership and status of vacant buildings and other properties."
+excerpt: "A step-by-step guide to researching the ownership and status of vacant buildings and other properties."
 date: 2016-11-22
 modified: 2017-08-05
 author: Community Law Center

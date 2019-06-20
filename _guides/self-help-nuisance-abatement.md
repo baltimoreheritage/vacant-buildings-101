@@ -1,6 +1,6 @@
 ---
 title: "How to use self-help nuisance abatement"
-excerpt: "Step-by-step guide to using nuisance abatement to deal with problem properties."
+excerpt: "A step-by-step guide to using nuisance abatement to deal with problem properties."
 date: 2012-08-08
 modified: 2017-07-24
 author: Community Law Center
@@ -21,11 +21,12 @@ guide:
   status: ready
 ---
 
-*This guide is based on the [2012 self-help nuisance abatement handout](http://communitylaw.org/wp-content/uploads/2012/08/self-help-nuisance-abatement-handout.pdf) from the Community Law Center. Learn more about [self-help nuisance abatement](http://communitylaw.org/urbanagriculturelawproject/self-help-nuisance-abatement-2/).*
+This guide is based on the [2012 self-help nuisance abatement handout](http://communitylaw.org/wp-content/uploads/2012/08/self-help-nuisance-abatement-handout.pdf) from the Community Law Center. Learn more about [self-help nuisance abatement](http://communitylaw.org/urbanagriculturelawproject/self-help-nuisance-abatement-2/).
+{: .notice--info}
 
 {% include requirements.html %}
 
-What can you do about a nuisance in your neighborhood?
+### What can you do about a nuisance in your neighborhood?
 
 Imagine you live next door to a privately-owned vacant lot in Baltimore City covered with three-foot weeds and overgrown shrubs and trees. The weeds make the lot a haven for haven for rats and trash is strewn throughout the property. Someone has started to use the lot as a dumping ground for unwanted tires, sofas, and other large debris.
 
@@ -34,7 +35,7 @@ You and your neighbors are tired of looking at the eyesore and want to clean it 
 Here is how you can use the common law principle of "self-help nuisance abatement" to address the problem:
 
 1. Figure out if this a nuisance property. In legal terms, a "nuisance" is condition or situation that interferes with the use or enjoyment of property.
-2. Report the condition of the property to 311. See our guide to [reporting code violations with 311](https://baltimoreheritage.github.io/vacant-buildings-101/guides/report-code-violations/) for more information.
+2. Report the condition of the property to 311. See our guide to [reporting code violations with 311](/vacant-buildings-101/guides/report-code-violations/) for more information.
 3. Identify and locate the property owner using public records.
 4. Provide notice of the nuisance by writing a detailed letter to the property owner. You can use this [nuisance property letter worksheet](http://communitylaw.org/wp-content/uploads/2016/09/Nuisance-Property-Letter-Worksheet.pdf) or write your own letter. Make sure to include the following information:
   - Property address;
@@ -47,4 +48,4 @@ Here is how you can use the common law principle of "self-help nuisance abatemen
 6. If the property owner does not abate the nuisance after receiving proper legal notice, the community now has the legal right to enter the property and abate the nuisance themselves.
 
 **Remember:** Self-help nuisance abatement does *not* give the community permanent legal access to the property. The owner of the property could come back at any time and rightfully demand use of the property. You can choose to make improvements to the property described in your notice to the property owner, such as creating garden beds or adding a fence or benches, but you should understand that the owner could remove them at any time without providing notice or compensation.
-{: .notice--info}
+{: .notice--warning}
