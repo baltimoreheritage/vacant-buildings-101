@@ -16,6 +16,9 @@ header:
 
 A community association or group of concerned neighbors can set up a housing committee or development committee. This group can identify nuisance properties, track issues at specific properties, and think strategically about redevelopment within a neighborhood. Some individuals and groups have even done house-by-house surveys of entire neighborhoods, prioritizing properties based on, for example, ownership or condition of the properties.
 
+**Example:** The Housing Committee of the Ednor Gardens-Lakeside Civic Association works with block captains to identify and track all of the vacant and unoccupied homes and work with Strong City Baltimore to promote strategic code enforcement. [Learn more.](https://www.ednorgardenslakeside.org/committees)
+{: .notice--success}
+
 ### Conduct a survey of residents
 
 Do you know what the members of your community value about their neighborhood or what they would like to change? The results of a survey may surprise you. Ask questions about why neighbors chose to live in your neighborhood, what they want to protect, and what they would like to improve.
@@ -32,6 +35,12 @@ Your neighborhood can work with other neighborhoods to address shared problems a
 
 Your neighborhood may already be included in a neighborhood or small area plan from the [Baltimore City Department of Planning](https://planning.baltimorecity.gov/). Neighborhood organizations can also try to get help from local nonprofits, like the [Neighborhood Design Center](http://www.ndc-md.org/), in creating a plan to deal with housing and development issues.
 
+**Example:** In early 2013, members of the Old Goucher Community Association (OGCA) and Old Goucher Business Alliance (OGBA) joined together develop a vision for the neighborhood’s future and formulate the steps required to achieve that vision. [Read the plan.](https://www.oldgoucher.org/vision-plan/)
+{: .notice--success}
+
 ### Take legal action using the Community Bill of Rights
 
 The Community Bill of Rights ([Md. Code Ann., Real Prop. § 14-123](http://www.baltimorerenew.org/wp-content/uploads/2016/09/Community-Bill-of-Rights-14-123-as-amended-effective-10-1-12.pdf)) authorizes Baltimore City community associations to seek the enforcement of many Baltimore City Code provisions. For example, the Community Bill of Rights permits a community association to file suit against the owner of a neglected property and ask the court to order the owner to clean up and maintain their property.
+
+**Example:** In 2014, a coaltion of community groups (represented by the Community Law Center, University of Maryland School of Law's Community Development Clinic, and Venable LLP) successfully used the Community Bill of Rights to force Scott Wizig to clean up vacant buildings he owned in Baltimore City. [Read more in the *Sun*.](https://www.baltimoresun.com/business/bs-bz-wizig-judgement-20140812-story.html)
+{: .notice--success}
