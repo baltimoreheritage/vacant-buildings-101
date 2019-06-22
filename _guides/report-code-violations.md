@@ -18,9 +18,10 @@ guide:
   type: step-by-step
   difficulty: beginner
   status: ready
+toc: true
+toc_label: "Step-by-Step"
+toc_icon: "list-ol"
 ---
-
-{% include toc icon="list-ol" title="Step-by-Step" %}
 
 {% include requirements.html %}
 
